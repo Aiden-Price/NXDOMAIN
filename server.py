@@ -1,6 +1,3 @@
-"""
-SID: 50302821 
-"""
 from sys import argv
 import socket
 

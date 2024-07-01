@@ -1,5 +1,3 @@
-# SID: 530502821
-
 from sys import argv
 import socket
 import time
